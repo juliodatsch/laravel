@@ -26,4 +26,4 @@ php artisan key:generate
 
 
 Acesso ao projeto
-[http://localhost:8180](http://localhost:8000)
+[http://localhost:8000](http://localhost:8000)
